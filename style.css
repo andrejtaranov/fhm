@@ -1,0 +1,38 @@
+.h{
+    text-align: right;
+    position: relative;
+    bottom: 90px;
+
+}
+.p{
+    width: 100px;
+    height: 110px;
+}
+.h:hover{
+    color: darkgray;
+}
+.w{
+    text-align: center;
+}
+a{
+    
+
+    text-decoration: none;
+    color: white;
+    text-align: left;
+    display: flexbox;
+    
+
+}
+table{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    background-color: darkgray;
+}
+tr:hover{
+    position: relative;
+    text-align: center;
+    background-color: black;
+    font-size: 20px;
+}
